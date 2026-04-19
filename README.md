@@ -34,7 +34,6 @@ The system uses a deep learning model (MobileNetV2) for image classification and
 ```
 ├── Main1_app.py              # Streamlit application
 ├── fruit_veg_mobilenetv2.keras  # Trained CNN model
-├── class_names.json         # Label mapping
 ├── FoodData_Central_foundation_food_json_2025-12-18.json  # Nutrition dataset
 ├── season5.ipynb            # Model training notebook
 └── README.md
